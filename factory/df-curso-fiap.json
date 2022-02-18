@@ -1,0 +1,9 @@
+{
+	"name": "df-curso-fiap",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6ac8e985-8918-4c1d-b221-6dcd6b25810a",
+		"tenantId": "11dbbfe2-89b8-4549-be10-cec364e59551"
+	}
+}
